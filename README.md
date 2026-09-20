@@ -27,5 +27,44 @@ The system provides a simple and user-friendly ATM experience while focusing on 
 - Pycharm
 - Git
 - GitHub
-# STEPS TO INSTALL AND RUN
+# Steps to Run and Install
+## Requirements
+  -Python 3
+  -PyCharm IDE
+## Steps to Run the Project
+   -Download or clone the VDF Bank ATM repository from GitHub.
+   -Open PyCharm on your computer.
+   -Select Open and open the project folder.
+   -Open the Python file:
+      vdf_bank_atm.py
+   -Make sure Python is selected as the project interpreter in PyCharm.
+   -Right-click on vdf_bank_atm.py and select:
+       Run 'vdf_bank_atm'
+   -The program will start in the PyCharm terminal.
+   -Enter your PIN and select the required option from the ATM menu.
+# Instruction for testing 
+### Test 1: PIN Verification
+- Enter the correct PIN.
+- Verify that the ATM menu is displayed.
+- Enter an incorrect PIN and verify that access is denied.
+### Test 2: Balance Inquiry
+- Select "Check Balance".
+- Verify that the current balance is displayed.
+### Test 3: Deposit
+- Select "Deposit Money".
+- Enter a valid amount.
+- Verify that the balance increases correctly.
+### Test 4: Withdrawal
+- Select "Withdraw Money".
+- Enter an amount less than the available balance.
+- Verify that the amount is deducted correctly.
+### Test 5: Insufficient Balance
+- Try to withdraw more money than the available balance.
+- Verify that the system displays an insufficient balance message.
+### Test 6: Invalid Choice
+- Enter an invalid menu option.
+- Verify that the system asks the user to try again.
+### Test 7: Exit
+- Select the exit option.
+- Verify that the program terminates correctly.
  
