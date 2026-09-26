@@ -70,7 +70,7 @@ Blackjack GitHub Documentation — Page 3
 6. Additional Blackjack rules.
 ## SCREENSHOTS
 ### 1. Instruction of playing the game 
-
+Screenshot 2026-09-27 013142.png
 ### 2. Game play
 
 
