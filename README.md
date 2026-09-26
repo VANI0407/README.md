@@ -68,6 +68,14 @@ Blackjack GitHub Documentation — Page 3
 4. Persistent scores
 5. Card images and sound effects
 6. Additional Blackjack rules.
-## SCREENSHOTS 
+## SCREENSHOTS
+### 1. Instruction of playing the game 
+
+### 2. Game play
+
+
+### 3. Score View 
+
+### 4. Exit 
 
 
