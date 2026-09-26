@@ -70,12 +70,11 @@ Blackjack GitHub Documentation — Page 3
 6. Additional Blackjack rules.
 ## SCREENSHOTS
 ### 1. Instruction of playing the game 
-"C:\Users\hp\OneDrive\Pictures\Screenshots\instruction of game.png"
+![Screenshot](https://github.com/user-attachments/assets/instruction)
 ### 2. Game play
-
-
+![Screenshot](https://github.com/user-attachments/assets/gameplay)
 ### 3. Score View 
-
+![Screenshot](https://github.com/user-attachments/assets/scorecard)
 ### 4. Exit 
-
+![Screenshot](https://github.com/user-attachments/assets/exit)
 
