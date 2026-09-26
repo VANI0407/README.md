@@ -50,7 +50,7 @@ Blackjack GitHub Documentation — Page 3
 * Ace adjustment
 * Blackjack detection
 * Dealer rules and game logic.
-python -m unittest discover -s tests -v
+### python -m unittest discover -s tests -v
 ## GAME INSTRUCTIONS
 1. The player and dealer receive two cards.
 2. The goal is to get as close to 21 as possible without going above 21.
